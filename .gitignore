@@ -4,6 +4,9 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Bababoei/Library/
+Bababoei/Library/shadercompiler-UnityShaderCompiler.exe0.log
+Bababoei/Library/CurrentLayout.dwlt
 
 # Visual Studio cache directory
 .vs/
